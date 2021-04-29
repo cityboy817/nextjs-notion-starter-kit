@@ -9,7 +9,7 @@ module.exports = {
   // basic site info (required)
   name: '公众智联',
   domain: 'https://www.notion.so/e5f19e95889d47b38d221f96c4301fe9',
-  author: '公众智联>丛国瑞',
+  author: '.All Rights Reserved.',
 
   // open graph metadata (optional)
   description: 'Example site description',
